@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# SQLite database (rebuilt from data/*.csv by data/build_db.py)
+*.db
+*.sqlite3
+
+# Generated output
+output/
