@@ -1,0 +1,20 @@
+Question: total spend by department
+
+SQL:
+SELECT d.department_name AS department, SUM(t.amount) AS total_spend FROM transactions t JOIN departments d ON t.department_id = d.id GROUP BY d.department_name ORDER BY total_spend DESC
+
+Explanation:
+Adds up all transaction amounts for each department and lists departments from highest to lowest total spend.
+
+Results (10 row(s)):
+department | total_spend
+Engineering | 19113.3
+Marketing | 16650.45
+Product | 13840.0
+Finance Operations | 8578.7
+Data & Analytics | 7634.25
+Sales | 5112.15
+Legal | 3750.0
+Facilities | 2840.0
+People Operations | 1884.5
+Customer Support | 1685.25
