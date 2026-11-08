@@ -1,0 +1,11 @@
+id,department_name,cost_center,budget_owner,annual_budget
+1,Finance Operations,CC-100,A. Rao,480000
+2,Engineering,CC-200,J. Okafor,1200000
+3,People Operations,CC-300,M. Chen,350000
+4,Sales,CC-400,S. Patel,600000
+5,Marketing,CC-500,L. Garcia,550000
+6,Customer Support,CC-600,T. Nguyen,300000
+7,Facilities,CC-700,D. Kim,250000
+8,Legal,CC-800,R. Alvarez,200000
+9,Product,CC-900,K. Tanaka,700000
+10,Data & Analytics,CC-910,E. Novak,450000

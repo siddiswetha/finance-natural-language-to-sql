@@ -1,0 +1,41 @@
+id,transaction_date,vendor_id,department_id,category,description,amount,currency,status,payment_method
+1,2026-07-03,1,2,Software,Monthly cloud hosting,2450.00,USD,Approved,Bank Transfer
+2,2026-07-05,3,1,Office Supplies,Printer paper and toner,182.40,USD,Approved,Corporate Card
+3,2026-07-08,4,4,Travel,Client visit flights,1280.75,USD,Approved,Corporate Card
+4,2026-07-11,2,2,Software,Code review tool subscriptions,899.00,USD,Approved,Purchase Order
+5,2026-07-14,5,9,Consulting,Product strategy workshop,4200.00,USD,Approved,Bank Transfer
+6,2026-07-18,6,3,Catering,New hire lunch,345.60,USD,Approved,Corporate Card
+7,2026-07-21,7,5,Marketing,Social media campaign,1850.00,USD,Pending,Bank Transfer
+8,2026-07-25,8,7,Facilities,Office cleaning July,760.00,USD,Approved,Bank Transfer
+9,2026-08-02,1,10,Software,Data warehouse compute,3120.50,USD,Approved,Bank Transfer
+10,2026-08-04,9,3,Training,Leadership training course,1150.00,USD,Approved,Purchase Order
+11,2026-08-07,4,2,Travel,Conference travel,2145.30,USD,Pending,Corporate Card
+12,2026-08-09,3,6,Office Supplies,Headsets for support team,540.25,USD,Approved,Corporate Card
+13,2026-08-12,2,9,Software,Design tool subscriptions,640.00,USD,Approved,Purchase Order
+14,2026-08-15,5,1,Consulting,Month-end close support,3800.00,USD,Approved,Bank Transfer
+15,2026-08-19,11,2,Hardware,Replacement laptops,6750.00,USD,Flagged,Bank Transfer
+16,2026-08-22,7,5,Marketing,Search advertising,2950.00,USD,Approved,Bank Transfer
+17,2026-08-26,6,4,Catering,Sales team offsite lunch,410.80,USD,Approved,Corporate Card
+18,2026-08-29,8,7,Facilities,HVAC maintenance,1320.00,USD,Approved,Bank Transfer
+19,2026-09-02,1,2,Software,Monthly cloud hosting,2480.00,USD,Approved,Bank Transfer
+20,2026-09-05,10,8,Legal,Contract review,2100.00,USD,Approved,Bank Transfer
+21,2026-09-08,4,5,Travel,Marketing conference flights,1780.45,USD,Approved,Corporate Card
+22,2026-09-10,12,5,Events,Customer event venue hire,5200.00,USD,Pending,Bank Transfer
+23,2026-09-12,3,1,Office Supplies,Notebooks and pens,96.30,USD,Approved,Corporate Card
+24,2026-09-15,2,10,Software,Analytics tool subscriptions,1475.00,USD,Approved,Purchase Order
+25,2026-09-18,5,9,Consulting,User research sessions,2900.00,USD,Approved,Bank Transfer
+26,2026-09-20,9,2,Training,Cloud certification exam fees,980.00,USD,Approved,Corporate Card
+27,2026-09-23,7,5,Marketing,Email campaign platform,1120.00,USD,Approved,Bank Transfer
+28,2026-09-25,11,6,Hardware,Monitor stands,425.00,USD,Approved,Corporate Card
+29,2026-09-27,1,10,Software,Data warehouse compute,2980.00,USD,Approved,Bank Transfer
+30,2026-09-30,8,7,Facilities,Office cleaning September,760.00,USD,Approved,Bank Transfer
+31,2026-10-02,4,4,Travel,Sales roadshow travel,3420.60,USD,Pending,Corporate Card
+32,2026-10-05,6,3,Catering,Team celebration lunch,388.90,USD,Approved,Corporate Card
+33,2026-10-07,2,2,Software,Code review tool subscriptions,899.00,USD,Approved,Purchase Order
+34,2026-10-09,5,1,Consulting,Tax preparation support,4500.00,USD,Flagged,Bank Transfer
+35,2026-10-12,12,9,Events,Product launch event,6100.00,USD,Pending,Bank Transfer
+36,2026-10-14,3,10,Office Supplies,Whiteboard markers,58.75,USD,Approved,Corporate Card
+37,2026-10-16,7,5,Marketing,Video production,3750.00,USD,Approved,Bank Transfer
+38,2026-10-19,1,2,Software,Monthly cloud hosting,2510.00,USD,Approved,Bank Transfer
+39,2026-10-21,9,6,Training,Support skills workshop,720.00,USD,Approved,Purchase Order
+40,2026-10-23,10,8,Legal,Trademark filing,1650.00,USD,Approved,Bank Transfer

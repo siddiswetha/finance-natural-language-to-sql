@@ -1,0 +1,13 @@
+id,close_month,department_id,total_spend,total_transactions,close_status
+1,2026-07,1,278.70,2,Closed
+2,2026-07,2,3349.00,2,Closed
+3,2026-07,3,345.60,1,Closed
+4,2026-07,4,1280.75,1,Closed
+5,2026-07,5,1850.00,1,Closed
+6,2026-07,7,760.00,1,Closed
+7,2026-07,9,4200.00,1,Closed
+8,2026-08,1,3800.00,1,Closed
+9,2026-08,2,10030.30,3,Closed
+10,2026-08,3,1150.00,1,Closed
+11,2026-08,5,2950.00,1,Closed
+12,2026-09,2,3460.00,2,Open

@@ -1,0 +1,13 @@
+id,vendor_name,vendor_type,country,active
+1,Northwind Cloud Services,Software,US,1
+2,BluePeak Software,Software,US,1
+3,Harbor Office Supplies,Supplies,US,1
+4,Cascade Travel Group,Travel,US,1
+5,Meridian Consulting,Consulting,US,1
+6,Apex Catering,Catering,US,1
+7,Silverline Marketing,Marketing,US,1
+8,Granite Facilities Group,Facilities,US,1
+9,BrightPath Training,Training,US,1
+10,Keystone Legal Advisors,Legal,US,1
+11,Summit Hardware Co,Hardware,Canada,1
+12,Riverbend Events,Events,US,1
